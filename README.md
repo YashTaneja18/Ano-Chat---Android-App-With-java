@@ -16,7 +16,7 @@ This project is designed to demonstrate real-time communication and anonymous us
 
 ## Installation
 1. **Download the APK**:
-   - Grab the latest `AnoChat.apk`, download it directly from [this link](#) .
+   - Grab the latest `AnoChat.apk`, download it directly.
 2. **Install on Android**:
    - Enable "Install from Unknown Sources" in your Android settings if prompted.
    - Open the `.apk` file on your device and follow the installation prompts.
@@ -30,10 +30,10 @@ This project is designed to demonstrate real-time communication and anonymous us
 ## Screenshots
 Below are some glimpses of Ano Chat in action:
 
-![Group List](screenshots/group_list.png)  
+![Group List](group_list.png)  
 *View all available chat groups.*  
 
-![Chat Screen](screenshots/chat_screen.png)  
+![Chat Screen](chat_screen.png)  
 *Real-time messaging in a group.*  
 
 ---
