@@ -2,6 +2,7 @@
 Ano Chat is an anonymous chat application built for Android that allows users to connect instantly without the need for personal sign-ups or accounts. Using Firebase Anonymous Authentication and Realtime Database, users can create chat groups and communicate in real-time. Upon downloading the app, users are automatically added to all existing groups, fostering a seamless and open chat experience.
 
 This project is designed to demonstrate real-time communication and anonymous user interaction in a simple, user-friendly interface.
+I have added the zip folder of this project in the Google drive whose link is provided below.
 
 ---
 
