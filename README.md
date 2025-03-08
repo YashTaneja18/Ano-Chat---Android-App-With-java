@@ -3,6 +3,7 @@ Ano Chat is an anonymous chat application built for Android that allows users to
 
 This project is designed to demonstrate real-time communication and anonymous user interaction in a simple, user-friendly interface.
 I have added the zip folder of this project in the Google drive whose link is provided below.
+https://drive.google.com/drive/folders/1y0aEwPM3KxKzN-EHYiwOU6bOLIQatKjZ?usp=drive_link
 
 ---
 
