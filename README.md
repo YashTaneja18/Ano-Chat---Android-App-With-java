@@ -69,9 +69,3 @@ Currently, the app supports group creation and real-time chatting. Future update
 - All users are added to all groups—no private or selective groups at this stage.
 - Best suited for small-scale testing due to the open-group model.
 
----
-
-## Contributing
-This is a showcase project, but feedback is welcome! Feel free to:
-- Open an issue for bugs or suggestions.
-- Fork the repository and submit a pull request if you’d like to enhance it.
